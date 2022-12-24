@@ -16,7 +16,6 @@ public class MainPage extends Application {
         stage.setResizable(false);
         stage.setTitle("MordeWeather");
         stage.setScene(scene);
-        stage.getIcons().add(new Image("C:\\Users\\Cornel\\IdeaProjects\\MordeWeather\\src\\main\\resources\\images\\thermometer.png"));
         stage.show();
     }
 
