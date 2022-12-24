@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: main.mordeweather.Launcher
+Class-Path: jackson-databind-2.14.1.jar javafx-base-19-ea+7-win.jar java
+ fx-fxml-19-ea+7-win.jar javafx-graphics-19-ea+7-win.jar javafx-swt.jar 
+ javafx.base.jar javafx.controls.jar javafx.fxml.jar javafx.graphics.jar
+  javafx.media.jar javafx.swing.jar javafx.web.jar javafx-controls-19-ea
+ +7.jar javafx-controls-19-ea+7-win.jar javafx-graphics-19-ea+7.jar java
+ fx-fxml-19-ea+7.jar javafx-base-19-ea+7.jar
+
